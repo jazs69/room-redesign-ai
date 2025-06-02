@@ -87,8 +87,7 @@ npm run preview
 
 ## 📸 Demo
 
-![Demo Screenshot](https://user-images.githubusercontent.com/0000000/room-redesign-demo.png)
-<!-- Replace with your own screenshot or animated GIF -->
+![Demo Screenshot](image.png)
 
 ---
 
@@ -103,10 +102,10 @@ npm run preview
 ## 🙋‍♂️ Contributing
 
 Pull requests and issues are welcome!  
-Feel free to [open an issue](https://github.com/your-username/room-redesign-ai/issues) or submit a PR.
+Feel free to [open an issue](https://github.com/jazs69/room-redesign-ai/issues) or submit a PR.
 
 ---
 
 ## 📄 License
 
-MIT © [Your Name](https://github.com/your-username)
+MIT © [Jayesh Yadav](https://github.com/jazs69)
