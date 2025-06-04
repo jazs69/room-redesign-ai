@@ -14,7 +14,7 @@
 ### 1. Clone & Install
 
 ```sh
-git clone https://github.com/your-username/room-redesign-ai.git
+git clone https://github.com/jazs69/room-redesign-ai.git
 cd room-redesign-ai
 npm install
 ```
